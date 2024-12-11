@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Acesse aqui meu Github
+          Acesse aqui o meu Github
         </a>
       </header>
     </div>
