@@ -2,6 +2,7 @@
   "name": "aula_actions",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ben-sabino.github.io/aula_actions",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
